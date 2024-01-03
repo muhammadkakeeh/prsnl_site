@@ -1,17 +1,20 @@
 [
   {
+ 
     "name": "home",
-    "src": "images/woman-with-tablet.jpg",
-    "alt": "woman with glasses holding a tablet"
+    "src": "images/173c2f03-6abd-41d0-8687-a6a7a8217ca6.jpg",
+    "alt": "IT student working the nights"
   },
   {
+ 
     "name": "about",
-    "src": "images/motion-background.jpg",
-    "alt": "gray abstract background"
+    "src": "images/2abccb9a-679d-4d40-ae23-020c7dc71170.jpg",
+    "alt": "standerd Ai genarated pic"
   },
   {
+
     "name": "portfolio",
-    "src": "images/design-desk.jpeg",
+    "src": "images/333dca9f-c6e9-499d-887e-61a3d9a5cf6d.jpg",
     "alt": "desktop with books and laptop"
   }
 ]
