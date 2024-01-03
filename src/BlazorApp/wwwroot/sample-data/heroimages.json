@@ -1,20 +1,17 @@
 [
   {
- 
     "name": "home",
-    "src": "images/mkmk.jpg",
+    "src": "/images/mkmk.jpg",
     "alt": "IT student working the nights"
   },
   {
- 
     "name": "about",
-    "src": "images/mkbout.jpg",
+    "src": "/images/mkbout.jpg",
     "alt": "standerd Ai genarated pic"
   },
   {
-
     "name": "portfolio",
-    "src": "images/mkpic.jpg",
+    "src": "/images/mkpic.jpg",
     "alt": "desktop with books and laptop"
   }
 ]
